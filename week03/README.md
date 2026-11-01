@@ -15,3 +15,22 @@
    - Calculates the total and average of three scores (scores validated to be between 0 and 100).
 3. `week03/ItemCost.java`
    - Calculates the total cost using quantity and unit price.
+
+### How to Run
+Open a terminal in the `week03` directory.
+
+Compile and run the calculator:
+- `javac SimpleCalculator.java`
+- `java SimpleCalculator`
+
+Compile and run the average calculator:
+- `javac AverageCalculator.java`
+- `java AverageCalculator`
+
+Compile and run the item-cost program:
+- `javac ItemCost.java`
+- `java ItemCost`
+
+### Testing
+Test each program with different valid inputs and verify
+that the results match the expected calculations.
