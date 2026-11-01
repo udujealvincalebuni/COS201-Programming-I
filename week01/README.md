@@ -1,5 +1,3 @@
-# COS 201 - Computer Programming I
-
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
